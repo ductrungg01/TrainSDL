@@ -1,0 +1,4 @@
+﻿  train.cpp
+C:\Projects\TrainSDL\TrainSDL\train.cpp(47,20): warning C4018: '<': signed/unsigned mismatch
+C:\Projects\TrainSDL\TrainSDL\train.cpp(64,20): warning C4018: '<': signed/unsigned mismatch
+  TrainSDL.vcxproj -> C:\Projects\TrainSDL\Debug\TrainSDL.exe
